@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://latorar.github.io/sitemap
+Sitemap: https://latorar.github.io/app/sitemap
+Sitemap: https://latorar.github.io/assets/sitemap
+Sitemap: https://latorar.github.io/css/sitemap
+Sitemap: https://latorar.github.io/includes/sitemap
+Sitemap: https://latorar.github.io/item/sitemap
+Sitemap: https://latorar.github.io/src/sitemap
